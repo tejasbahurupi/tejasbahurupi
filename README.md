@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Prakash Bahurupi</h1>
-🎓 I'm a third-year IT student at PICT, Pune, passionate about software development, blockchain, and AI.  
+🎓 I'm a final Year IT student at PICT, Pune, passionate about software development and blockchain.  
 💻 I love building full-stack web apps, exploring new tech, and solving real-world problems through code.
 
 <br />
